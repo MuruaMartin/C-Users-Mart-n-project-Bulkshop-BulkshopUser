@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".expo"
+		},
+		{
+			"path": ".expo-shared"
+		},
+		{
+			"path": "assets"
+		},
+		{
+			"path": "node_modules"
+		},
+		{
+			"path": "src"
+		}
+	]
+}

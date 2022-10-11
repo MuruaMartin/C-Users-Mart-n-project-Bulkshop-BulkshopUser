@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bulkshop-staging-171417-authRole",
+      "UnauthRoleArn": "arn:aws:iam::966272354150:role/amplify-bulkshop-staging-171417-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::966272354150:role/amplify-bulkshop-staging-171417-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bulkshop-staging-171417-deployment",
+      "UnauthRoleName": "amplify-bulkshop-staging-171417-unauthRole",
+      "StackName": "amplify-bulkshop-staging-171417",
+      "StackId": "arn:aws:cloudformation:us-east-1:966272354150:stack/amplify-bulkshop-staging-171417/d90e6b70-26f4-11ed-b497-0efc57186963",
+      "AmplifyAppId": "d3lptgyniigze5"
+    },
+    "categories": {
+      "auth": {
+        "Bulkshop": {}
+      }
+    }
+  }
+}
